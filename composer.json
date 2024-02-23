@@ -3,6 +3,15 @@
     "description": "A simple PHP wrapper for running JavaScript code",
     "type": "library",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Lanre Waju",
+            "email": "hi@lnear.dev",
+            "homepage": "https://lnear.dev"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "php": "^8.1",
         "symfony/process": "^7.0"
