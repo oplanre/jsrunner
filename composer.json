@@ -1,5 +1,5 @@
 {
-    "name": "lanre/js-runner",
+    "name": "lanre/jsrunner",
     "description": "A simple PHP wrapper for running JavaScript code",
     "type": "library",
     "license": "MIT",
