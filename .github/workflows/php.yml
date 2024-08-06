@@ -23,7 +23,7 @@ jobs:
       with:
         bun-version: latest
     - name: Setup PHP Action
-      uses: shivammathur/setup-php@2.30.0
+      uses: shivammathur/setup-php@2.31.1
       with:
         php-version: ${{ matrix.php-versions }}
 
